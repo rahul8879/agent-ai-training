@@ -17,3 +17,11 @@ def xyz(a, b):
       eg. xyz(5, 10) will return 15
       """
     return a + b
+
+def check_for_abusive_words(prompt_text, abusive_words):
+    flag_abusive = False
+    for word in abusive_words:
+        if word.lower() in prompt_text.lower():
+            print(f"The text contains abusive word: {word}")
+            flag_abusive = True
+    return flag_abusive
