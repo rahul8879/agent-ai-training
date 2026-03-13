@@ -1,0 +1,28 @@
+,,price,price,price,price
+,,max,min,mean,range_func
+city,product_category,,,,
+New York,Groceries,482,123,330.63157894736844,359
+Houston,Clothing,498,37,308.45,461
+New York,Books,458,15,301.2352941176471,443
+Chicago,Furniture,474,57,292.7391304347826,417
+Phoenix,Clothing,495,40,291.61538461538464,455
+Houston,Books,496,42,284.6666666666667,454
+Phoenix,Groceries,497,10,273.6190476190476,487
+Houston,Groceries,467,95,271.9375,372
+Los Angeles,Furniture,491,18,268.6111111111111,473
+Chicago,Clothing,479,50,266.55172413793105,429
+Houston,Furniture,497,11,266.3076923076923,486
+Chicago,Groceries,494,60,263.96153846153845,434
+Phoenix,Furniture,465,21,263.86206896551727,444
+Houston,Electronics,498,35,259.0,463
+Los Angeles,Books,489,20,257.7894736842105,469
+New York,Electronics,442,32,257.5769230769231,410
+Phoenix,Electronics,477,58,248.26315789473685,419
+Chicago,Electronics,494,54,246.05882352941177,440
+New York,Furniture,498,74,243.83333333333334,424
+New York,Clothing,480,20,241.76470588235293,460
+Los Angeles,Electronics,484,28,239.45454545454547,456
+Los Angeles,Clothing,491,9,219.2941176470588,482
+Los Angeles,Groceries,416,16,207.94117647058823,400
+Phoenix,Books,481,10,202.375,471
+Chicago,Books,363,21,191.15384615384616,342
